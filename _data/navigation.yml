@@ -1,0 +1,14 @@
+logo_image: '../images/composite.webp'
+
+menu__settings:
+  menu__items:
+    - title: 'خانه'
+      url: '/'
+    - title: 'پروژه ها'
+      url: '/projects/'
+    - title: 'بلاگ'
+      url: '/blog/'
+    - title: 'برگه ها'
+      submenu:
+      - url: '/about/'
+        title: 'درباره'
